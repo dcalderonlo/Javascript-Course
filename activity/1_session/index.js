@@ -1,5 +1,7 @@
 // Ejercicio 1
 import "./aboutme.js";
+import "./activity/1_session/aboutme.js";
+
 console.log("Ejercicio 1");
 
 // Ejercicio 2
